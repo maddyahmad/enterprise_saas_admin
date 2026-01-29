@@ -1,5 +1,7 @@
 # Enterprise SaaS Admin Platform
 
+# For Demo - Navigate to : https://enterprise-saas-admin.vercel.app/
+
 A complete multi-tenant SaaS Admin Platform built with Next.js, MongoDB, and role-based access control.
 
 ## 🏗️ Project Structure
